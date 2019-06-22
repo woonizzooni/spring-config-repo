@@ -1,4 +1,4 @@
 datasource:
   uri: posgresql://dev.postgres:5432/customer
-  username: devcustomer33
-  password: devcustomerSecretPassword33
+  username: devcustomer44
+  password: devcustomerSecretPassword44
